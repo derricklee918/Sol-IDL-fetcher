@@ -2,11 +2,9 @@
 
 This repository provides tools and scripts for fetching the Interface Definition Language (IDL) of deployed programs on the Solana blockchain using the `@project-serum/anchor` library. This project is set up using TypeScript and includes essential modules to facilitate IDL fetching and management.
 
-Services are for hire, contact me at https://t.me/bilixsoftware or info@bilix.io
+Services are for hire, contact me at https://t.me/ruby1009
 ## Example
 In this example you can see me run the script for the pump.fun program and the marinade finance program
-
-https://github.com/bilix-software/solana-program-idl-fetcher/assets/170088768/005e2871-1867-4e0e-84eb-3116fa9eae27
 
 ## Features
 
