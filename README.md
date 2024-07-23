@@ -103,5 +103,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## Tips
-JATt1ta9GcbVMThdL18rXUqHn3toCMjWkHWtxM5WN3ec
