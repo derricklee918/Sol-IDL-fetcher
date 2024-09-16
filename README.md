@@ -1,4 +1,4 @@
-# Solana Program IDL Fetcher
+# Solana IDL Fetcher
 
 This repository provides tools and scripts for fetching the Interface Definition Language (IDL) of deployed programs on the Solana blockchain using the `@project-serum/anchor` library. This project is set up using TypeScript and includes essential modules to facilitate IDL fetching and management.
 
