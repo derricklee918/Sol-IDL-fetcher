@@ -2,9 +2,15 @@
 
 This repository provides tools and scripts for fetching the Interface Definition Language (IDL) of deployed programs on the Solana blockchain using the `@project-serum/anchor` library. This project is set up using TypeScript and includes essential modules to facilitate IDL fetching and management.
 
-Services are for hire, contact me at https://t.me/@Takhi77
+Services are for hire, contact me at 
+https://t.me/@dwlee918
+
 ## Example
 In this example you can see me run the script for the pump.fun program and the marinade finance program
+
+<video width="480" height="360" controls>
+  <source src="./example.mp4" type="video/mp4">
+</video>
 
 ## Features
 
@@ -25,7 +31,7 @@ Ensure you have the following installed:
 To install the package, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/Takhi77/Solana-IDL-fetcher.git
+git clone https://github.com/derricklee918/Sol-IDL-fetcher.git
 cd solana-program-idl-fetcher
 npm install
 ```
@@ -97,9 +103,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Open a pull request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
