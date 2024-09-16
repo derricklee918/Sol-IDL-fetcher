@@ -32,7 +32,7 @@ To install the package, clone the repository and install the dependencies:
 
 ```bash
 git clone https://github.com/derricklee918/Sol-IDL-fetcher.git
-cd solana-program-idl-fetcher
+cd Sol-IDL-fetcher
 npm install
 ```
 
