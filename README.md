@@ -8,9 +8,8 @@ https://t.me/@dwlee918
 ## Example
 In this example you can see me run the script for the pump.fun program and the marinade finance program
 
-<video width="480" height="360" controls>
-  <source src="./example.mp4" type="video/mp4">
-</video>
+
+https://github.com/user-attachments/assets/6eae475b-2d8f-46c2-ba7f-714a37882647
 
 ## Features
 
